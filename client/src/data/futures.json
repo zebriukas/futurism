@@ -3,26 +3,32 @@
 	"futureTypes": {
 		"unstable": {
 			"name": {
-				"en": "Stable Futures"
+				"en": "Stable Futures",
+				"lt": "Stabiliūs Futuristiniai Sugebėjimai"
 			},
 			"desc": {
-				"en": "These reliable futures can be used any number of times."
+				"en": "These reliable futures can be used any number of times.",
+				"lt": "Šiuos patikimus sugebėjimus galima naudot neribotą kiekį kartų."
 			}
 		},
 		"stable": {
 			"name": {
-				"en": "Unstable Futures"
+				"en": "Unstable Futures",
+				"lt": "Nestabiliūs Futuristiniai Sugebėjimai"
 			},
 			"desc": {
-				"en": "These futures are powerful, but only last a short while before fading away."
+				"en": "These futures are powerful, but only last a short while before fading away.",
+				"lt": "Šie sugebėjimai nors ir yra galingi, bet jų poveikis yra trumpalaikis"
 			}
 		},
 		"paradox": {
 			"name": {
-				"en": "Paradoxes"
+				"en": "Paradoxes",
+				"lt": "Paradoksai"
 			},
 			"desc": {
-				"en": "The combined time manipulations of an entire guild are needed to create a paradox. Paradoxes are wildly powerful, but only last a short while."
+				"en": "The combined time manipulations of an entire guild are needed to create a paradox. Paradoxes are wildly powerful, but only last a short while.",
+				"lt": "Norint sukurti šiuos itin galingus bei itin trumpalaikius paradoksus, reikės visų gildijos narių prisidėjimo prie laiko manipuliavimo"
 			}
 		}
 	},
